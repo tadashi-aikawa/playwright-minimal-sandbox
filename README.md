@@ -1,3 +1,33 @@
+# What is this?
+
+I created this repository to resolving the following issue.
+
+[Both "Show browser" or "Run in Debug Mode" are not working · Issue \#18424 · microsoft/playwright](https://github.com/microsoft/playwright/issues/18424)
+
+## Reproduction steps for the [issue](https://github.com/microsoft/playwright/issues/18424)
+
+### Clone and install dependencies
+
+```console
+git clone https://github.com/tadashi-aikawa/playwright-minimal-sandbox.git
+cd playwright-minimal-sandbox
+npm i
+```
+
+### Open by VSCode
+
+```console
+code .
+```
+
+### Run as debug.
+
+![](./run-debug.png)
+
+### It shows an error toast.
+
+![](./error.png)
+
 ## How did this repository create?
 
 ```console
@@ -70,10 +100,4 @@ And check out the following files:
 Visit https://playwright.dev/docs/intro for more information. ✨
 
 Happy hacking! 🎭
-```
-
-## Reproduction steps for the [issue](https://github.com/microsoft/playwright/issues/18424)
-
-```console
-
 ```
