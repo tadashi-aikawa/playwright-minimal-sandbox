@@ -28,6 +28,14 @@ code .
 
 ![](./error.png)
 
+## CLI works fine
+
+```console
+npx playwright test --debug
+```
+
+![](cli-is-ok.png)
+
 ## How did this repository create?
 
 ```console
