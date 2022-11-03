@@ -4,6 +4,13 @@ I created this repository to resolving the following issue.
 
 [Both "Show browser" or "Run in Debug Mode" are not working · Issue \#18424 · microsoft/playwright](https://github.com/microsoft/playwright/issues/18424)
 
+## Versions
+
+- `Windows`: 10.0.19044 (Microsoft Windows 10 Pro)
+- `playwright`: Version 1.27.1
+- `VSCode`: 1.73.0
+- `Playwright Test for VSCode`: v0.2.13
+
 ## Reproduction steps for the [issue](https://github.com/microsoft/playwright/issues/18424)
 
 ### Clone and install dependencies
